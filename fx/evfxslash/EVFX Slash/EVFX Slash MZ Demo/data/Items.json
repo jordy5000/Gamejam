@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"For any inquries or feedback, you can reach us at:\ncontact@dreams-circle.com !","effects":[],"hitType":0,"iconIndex":0,"itypeId":1,"name":"Contact Us","note":"","occasion":1,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0}
+]

@@ -1,0 +1,116 @@
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+＝＝＝　EVFX Slash - User Manual　＝＝＝
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+★★★　Foreword　★★★
+
+Thank you for purchasing EVFX Slash!
+Please read through the following manual before using the product.
+
+★★★　Pack Content　★★★
+
+〇　Effekseer (.efkefc) Files × 20 ( + Necessary Texture and Model Files)
+	01. Sanguine Edge
+	02. Twin Edge
+	03. Dancing Edge
+	04. Aeolian Edge
+	05. Pentacle Edge
+	06. Razor Claw
+	07. Cross Claw
+	08. Rampage Claw
+	09. Eruption Claw
+	10. Flurry Claw
+	11. Quick Blade
+	12. Double Blade
+	13. Arc Blade
+	14. Vacuum Blade
+	15. Sweep Blade
+	16. Ascension Blade
+	17. Wave Blade
+	18. Lethal Blade
+	19. Shadowless Blade
+	20. Dazzling Blade
+
+〇　Sound Effect (.ogg) Files × 20
+
+〇　RPG Maker MZ Demo Project (Copy-paste the animations in the sample database directly into your project's database)
+
+〇　EVFX Slash Manual (This document)
+
+★★★　Asset Installation Instructions　★★★
+
+〇 Installing the VFX Assets:
+1. Open the "VFX" Folder found in the same file directory as this manual.
+2. Copy (Right-click > "Copy") the entire "effects" folder.
+3. Open your RPG Maker MZ project's folder.
+4. Paste the "effects" folder there.
+
+〇 Installing the SFX Assets:
+1. Open the "SFX" Folder found in the same file directory as this manual.
+2. Copy (Right-click > "Copy") all the files in the folder.
+3. Open your RPG Maker MZ project's folder, then navigate to the "audio" > "se" Folder.
+4. Paste all the sound effect files there.
+
+〇 Installing the RPG Maker MZ Presets:
+1. Open the RPG Maker MZ Demo project AND your RPG Maker MZ project in SEPARATE instances of RPG Maker MZ.
+2. Open the Database for both projects, and navigate to the "Animations" tab.
+3. Copy the animation entries from the Demo project.
+4. Paste the animation entries into your project.
+
+★★★　Asset Specifications　★★★
+
+〇 Having less than the requirements may result in slower/lagging animation playback.
+
+〇 WINDOWS:
+
+OS: Microsoft Windows® 8.1/10 (64bit)
+Processor: Intel Core i3-4340 or better
+Memory: 8 GB RAM
+Graphics: Compatible OpenGL / VRAM 1GB or better
+
+〇 MAC:
+
+OS: Mac OS 10.13 or better
+Processor: Intel Core i3-4340 or better
+Memory: 8 GB RAM
+Graphics: Compatible OpenGL / VRAM 1GB or better
+
+★★★　Terms of Use　★★★
+
+The following Terms of Use ("Terms") applies to all the assets included in this product ("Assets").
+
+1. Dreams Circle and its affiliated creators retain all original ownership, copyright, and other rights associated with this product and these Assets.
+
+2. While these Assets were designed to be used for making games, they can be used without restriction for any other purposes.
+
+3. These Assets can be used for any monetary or non-monetary purposes.
+
+4. These Assets can be freely edited and modified.
+
+5. These Assets may not be resold, published, or distributed in any way other than as an integrated part of the project for which they were used for; this applies to Assets that have been edited or modified as well. In addition, any secondary assets derived or created from these Assets, including but not limited to: sprite sheets, images, sound effects, etc., also fall under these terms and limitations.
+
+6. When selling, publishing, or distributing any project in which these Assets have been used, directly or indirectly, in parts or in whole, it is mandatory to include the following as part of the credits:
+
+EVFX Slash © Dreams Circle
+
+7. Dreams Circle and its affiliated creators are not liable for any damages or issues that may arise as a result of using these Assets.
+
+★★★　Support　★★★
+
+If you have any questions regarding the product, please reach out to us at:
+(Please note that we are only able to address questions pertaining to the product.)
+
+contact@dreams-circle.com
+
+You can also visit our official Twitter account for any updates or announcement regarding Dreams Circle and our Products:
+
+https://twitter.com/dreams_circle
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+＝＝＝　EVFX Slash - User Manual　＝＝＝
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+©　Dreams Circle
+
+*The RPG Maker brand and "RPG Maker MZ" are owned by their respective owners in respective regions and are not affiliated with Dreams Circle.
