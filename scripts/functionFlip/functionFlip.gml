@@ -10,6 +10,6 @@ function flip_card() {
         flipped = false;
         sprite_index = sCardBack;
     }
-}
+};
 
 

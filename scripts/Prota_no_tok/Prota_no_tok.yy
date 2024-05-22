@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Prota_no_tok",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Prota_no_tok",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
