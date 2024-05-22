@@ -11,11 +11,21 @@ press_interact = keyboard_check(vk_space);
 //Mouvements 
 
 var movehorizontal = press_right - press_left;
-var movevertical = press_up - press_down;
+
 hspd = movehorizontal * wlkspd;
+
+var movevertical = press_up - press_down;
+ 
 vspd = movevertical * wlkspd;
-x = x+hspd;
-y = y+vspd;
+
+if (press_right && !place_meeting(x + 5, y, Obj_collision)) || (press_left  && !place_meeting(x - 5, y, Obj_collision))
+{
+	x += hspd;
+}else if (press_up && !place_meeting(x, y - 5,  Obj_collision)) || (press_down && !place_meeting(x, y + 5,  Obj_collision))
+{
+	y += vsp;
+}
+
 
 
 //Animations 
@@ -45,5 +55,7 @@ if (invincible) {
         invincible = false;
     }
 }
+
+
 
 

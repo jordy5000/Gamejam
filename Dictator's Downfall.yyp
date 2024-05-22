@@ -30,11 +30,12 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.4.0.137",
   },
   "name":"Dictator's Downfall",
   "resources":[
     {"id":{"name":"oAntas","path":"objects/oAntas/oAntas.yy",},},
+    {"id":{"name":"Obj_collision","path":"objects/Obj_collision/Obj_collision.yy",},},
     {"id":{"name":"objLine","path":"objects/objLine/objLine.yy",},},
     {"id":{"name":"oBloodSplash","path":"objects/oBloodSplash/oBloodSplash.yy",},},
     {"id":{"name":"oButton","path":"objects/oButton/oButton.yy",},},
@@ -52,6 +53,7 @@
     {"id":{"name":"testMiniGames","path":"rooms/testMiniGames/testMiniGames.yy",},},
     {"id":{"name":"functionFlip","path":"scripts/functionFlip/functionFlip.yy",},},
     {"id":{"name":"Backgroundroom","path":"sprites/Backgroundroom/Backgroundroom.yy",},},
+    {"id":{"name":"Collisions","path":"sprites/Collisions/Collisions.yy",},},
     {"id":{"name":"sAntasZ2","path":"sprites/sAntasZ2/sAntasZ2.yy",},},
     {"id":{"name":"sAntaWalkDown","path":"sprites/sAntaWalkDown/sAntaWalkDown.yy",},},
     {"id":{"name":"sAntaWalkLeft","path":"sprites/sAntaWalkLeft/sAntaWalkLeft.yy",},},
@@ -87,9 +89,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"rVillage","path":"rooms/rVillage/rVillage.yy",},},
     {"roomId":{"name":"testMiniGames","path":"rooms/testMiniGames/testMiniGames.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
