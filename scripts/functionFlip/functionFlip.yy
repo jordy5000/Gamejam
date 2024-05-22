@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"functionFlip",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"functionFlip",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
