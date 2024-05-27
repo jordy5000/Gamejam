@@ -11,3 +11,4 @@ invincible = false;
 invincible_time = 0;
 
 knockback_speed = 50; 
+global.talking = 0;
